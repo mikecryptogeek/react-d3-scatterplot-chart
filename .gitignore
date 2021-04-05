@@ -1,0 +1,14 @@
+# Ignore node_modules #
+#######################
+node_modules/
+www/bundle.js
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
